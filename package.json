@@ -1,0 +1,22 @@
+{
+  "name": "ember-cli-dnd",
+  "version": "0.1.0",
+  "description": "Ember.js component to make html-elements drag- or dropable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zaubererty/ember-cli-dnd.git"
+  },
+  "keywords": [
+    "ember-addon"
+  ],
+  "author": "Thomas Ziegler",
+  "license": "LGPLv3",
+  "bugs": {
+    "url": "https://github.com/zaubererty/ember-cli-dnd/issues"
+  },
+  "homepage": "https://github.com/zaubererty/ember-cli-dnd"
+}
