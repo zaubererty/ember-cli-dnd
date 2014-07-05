@@ -1,6 +1,6 @@
 {
   "name": "ember-cli-dnd",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Ember.js component to make html-elements drag- or dropable",
   "main": "index.js",
   "scripts": {
